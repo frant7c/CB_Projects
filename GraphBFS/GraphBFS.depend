@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1386744913 source:e:\mydocs\cb_projects\graphbfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../LBLsContainer/LBLsContainer.h"
+
+1387271363 e:\mydocs\cb_projects\lblscontainer\lblscontainer.h
+
